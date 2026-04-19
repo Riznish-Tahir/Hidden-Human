@@ -76,7 +76,7 @@ python --version
 ## ⬇️ Step 2 — Clone This Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hidden-human.git
+git clone https://github.com/Riznish-Tahir/hidden-human.git
 cd hidden-human
 ```
 
