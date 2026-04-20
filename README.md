@@ -151,7 +151,7 @@ The script has a `url` variable near the top. Change it depending on your camera
 
 ```python
 # In hidden_human_detector.py, find this line:
-url = "http://192.168.100.132:4747/video"
+url = "http://182.968.180.132:4647/video"
 
 # Replace with:
 cap = cv2.VideoCapture(0)   # 0 = first webcam, try 1 or 2 if it doesn't work
