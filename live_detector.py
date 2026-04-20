@@ -233,7 +233,7 @@ print("[WEB] On your phone open → http://<YOUR-PC-IP>:5000\n")
 
 # ===================== YOLO =====================
 model = YOLO("yolov8n.pt")
-url   = "http://192.168.100.132:4747/video"
+url   = "http://162.198.190.132:4047/video"
 cap   = cv2.VideoCapture(url)
 
 # ===================== STATE =====================
